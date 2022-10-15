@@ -6,7 +6,7 @@
 
 
 <p align="center">
-    <img alt="Deliveroo" src="https://user-images.githubusercontent.com/22107794/195984142-a27d7388-ae96-4b7b-bd71-b78ba5751ecc.png" />
+    <img alt="Deliveroo" src="https://user-images.githubusercontent.com/22107794/195984351-53fbadff-99df-4262-a09c-8f59638aa944.png" />
 </p>
 
 <br>
