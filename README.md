@@ -47,6 +47,9 @@ $ git clone https://github.com/lucasfsilva94/deliveroo-clone-ui.git
 ### Rodar o projeto
 
 ```bash
+# Entre na pasta deliveroo-clone-ui
+$ cd deliveroo-clone-ui
+
 # Instale as Dependencias
 $ yarn install
 
