@@ -33,8 +33,8 @@ Para acessar a demo do app precisa instalar o app do Expo em seu celular [androi
 
 Após instalado leia o QRCode abaixo:
 
-<img alt="Expo Happy" src="https://qr.expo.dev/expo-go?owner=lucasfsilva&slug=deliveroo-clone&releaseChannel=default&host=exp.host" width="15%">  
-ou acesse o link https://expo.io/@lucasfsilva/projects/Deliveroo-clone
+<img alt="Expo Deliveroo" src="https://qr.expo.dev/expo-go?owner=lucasfsilva&slug=deliveroo-clone&releaseChannel=default&host=exp.host" width="15%">  
+ou acesse o link https://expo.dev/@lucasfsilva/deliveroo-clone
 
 ## ⌨ Como Rodar
 
